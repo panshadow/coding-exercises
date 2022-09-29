@@ -31,6 +31,7 @@ To run solution of _the-some-task_ on Golang, run:
  1. [medium: surrounded-regions](https://leetcode.com/problems/surrounded-regions/)
  1. [medium: utf-8-validation](https://leetcode.com/problems/utf-8-validation/)
  1. [medium: validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
+ 1. [medium: word-search](https://leetcode.com/problems/word-search/)
 ### Easy
  1. [easy: best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
  1. [easy: binary-search](https://leetcode.com/problems/binary-search/)
